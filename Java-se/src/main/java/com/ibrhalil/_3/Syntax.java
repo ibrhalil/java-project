@@ -1,4 +1,4 @@
-package com.ibrhalil._6;
+package com.ibrhalil._3;
 
 public class Syntax {
     public static void main(String[] args) {

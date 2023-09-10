@@ -1,4 +1,4 @@
-package com.ibrhalil._3;
+package com.ibrhalil._1._12;
 
 public class Primitive {
     public static void main(String[] args) {
