@@ -3,28 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
     <parent>
         <groupId>com.ibrhalil</groupId>
-        <artifactId>java-project</artifactId>
+        <artifactId>java-se</artifactId>
         <version>0.0.1</version>
     </parent>
 
-    <artifactId>java-se</artifactId>
-
-    <packaging>pom</packaging>
-
-    <modules>
-        <module>java-00-hello-world</module>
-        <module>java-01-variables</module>
-        <module>java-02-syntax</module>
-        <module>java-03-main-method</module>
-        <module>java-04-operators</module>
-        <module>java-05-arrays</module>
-        <module>java-06-loop</module>
-        <module>java-07-conditions-statements</module>
-        <module>java-08-method</module>
-    </modules>
+    <artifactId>java-08-method</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
