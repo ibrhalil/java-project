@@ -1,4 +1,4 @@
-package com.ibrhalil._4._43;
+package com.ibrhalil._43;
 
 public class Operator {
     public static void main(String[] args) {
