@@ -17,6 +17,8 @@
         <module>java-stream-api</module>
         <module>java-io-api</module>
         <module>java-date-api</module>
+        <module>java-design-patterns</module>
+        <module>java-ee</module>
     </modules>
 
     <properties>
