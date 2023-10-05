@@ -19,6 +19,7 @@
         <module>java-date-api</module>
         <module>java-design-patterns</module>
         <module>java-ee</module>
+        <module>java-clean-code</module>
     </modules>
 
     <properties>
