@@ -26,7 +26,8 @@
         <module>java-08-method</module>
         <module>java-09-examples</module>
         <module>java-10-system</module>
-
+        <module>java-11-string</module>
+        <module>java-12-math</module>
     </modules>
 
     <properties>
