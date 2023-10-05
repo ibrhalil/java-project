@@ -13,3 +13,7 @@ http://localhost:8080/servlet-jsp/my-servlet
 
 java-00-servlet-jsp modulunu maven ile clean install yaptıktan sonra
 target dizninden .war uzuntılı dosyayı alıp tomcat dizininin altında webapps at
+
+windows için run 
+tomcat10/bin dizininde terminal aç
+catalina.bat start diyerek tomcat ayaklandır
