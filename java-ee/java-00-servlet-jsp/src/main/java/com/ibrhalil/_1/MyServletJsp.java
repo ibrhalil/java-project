@@ -16,7 +16,7 @@ public class MyServletJsp extends HttpServlet {
         PrintWriter yaz = resp.getWriter();
         yaz.append("<html>")
                 .append("<body>")
-                .append("<h2>Selamlar ...</h2>")
+                .append("<h2>Servlet'den Selamlar ...</h2>")
                 .append("</body>")
                 .append("</html>");
     }
