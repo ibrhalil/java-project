@@ -14,6 +14,7 @@
 
     <modules>
         <module>java-00-servlet-jsp</module>
+        <module>java-01-servlet-jsp-notasyon</module>
     </modules>
 
     <properties>
