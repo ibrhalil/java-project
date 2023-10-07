@@ -17,8 +17,8 @@ public class DenkleminKokleriniBulma {
         deklemiYaz(a, b, c, delta);
         if (delta > 0) {
             System.out.println("Denklemin iki kok vardir.");
-            System.out.println("X1 : " + (-b + (Math.sqrt(delta)) / (2 * a)));
-            System.out.println("X2 : " + (-b - (Math.sqrt(delta)) / (2 * a)));
+            System.out.println("X1 : " + ((-b + (Math.sqrt(delta))) / (2 * a)));
+            System.out.println("X2 : " + ((-b - (Math.sqrt(delta))) / (2 * a)));
         } else if (delta == 0) {
             System.out.println("Denklemin tek koku vardir.");
             System.out.println("X1 ve X2 : " + ((-b) / (2 * a)));
