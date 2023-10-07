@@ -13,6 +13,16 @@
     </init-param>
   </servlet>
 
+  <context-param>
+    <param-name>website</param-name>
+    <param-value>ibrhalil.com</param-value>
+  </context-param>
+
+  <context-param>
+    <param-name>mail</param-name>
+    <param-value>ibhalilaydn@gmail.com</param-value>
+  </context-param>
+
   <servlet-mapping>
     <servlet-name>configApp1</servlet-name>
     <url-pattern>/config-xml</url-pattern>
