@@ -17,6 +17,7 @@
         <module>java-01-servlet-jsp-notasyon</module>
         <module>java-02-servlet-jsp-dil-destegi</module>
         <module>java-03-servlet-jsp-config</module>
+        <module>java-04-servlet-jsp-yasam-dongusu</module>
     </modules>
 
     <properties>
