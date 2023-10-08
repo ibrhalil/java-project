@@ -5,27 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.ibrhalil</groupId>
-        <artifactId>java-ee</artifactId>
+        <artifactId>java-07-lombok-api</artifactId>
         <version>0.0.1</version>
     </parent>
 
-    <artifactId>java-07-lombok-api</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>lombok-00</module>
-        <module>lombok-01-get-set</module>
-        <module>lombok-02-constructor</module>
-
-    </modules>
-
-    <dependencies>
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <version>1.18.30</version>
-            <scope>compile</scope>
-        </dependency>
-    </dependencies>
+    <artifactId>lombok-02-constructor</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
