@@ -19,6 +19,7 @@
         <module>java-03-servlet-jsp-config</module>
         <module>java-04-servlet-jsp-yasam-dongusu</module>
         <module>java-05-servlet-jsp-yonlendirme</module>
+        <module>java-06-jsp-yasam-dongusu</module>
     </modules>
 
     <properties>
