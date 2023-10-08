@@ -5,23 +5,24 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.ibrhalil</groupId>
-        <artifactId>java-project</artifactId>
+        <artifactId>java-ee</artifactId>
         <version>0.0.1</version>
     </parent>
 
-    <artifactId>java-ee</artifactId>
+    <artifactId>java-07-lombok-api</artifactId>
     <packaging>pom</packaging>
-
     <modules>
-        <module>java-00-servlet-jsp</module>
-        <module>java-01-servlet-jsp-notasyon</module>
-        <module>java-02-servlet-jsp-dil-destegi</module>
-        <module>java-03-servlet-jsp-config</module>
-        <module>java-04-servlet-jsp-yasam-dongusu</module>
-        <module>java-05-servlet-jsp-yonlendirme</module>
-        <module>java-06-jsp-yasam-dongusu</module>
-        <module>java-07-lombok-api</module>
+        <module>lombok-00</module>
     </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.30</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
