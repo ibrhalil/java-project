@@ -28,6 +28,7 @@
         <module>java-10-system</module>
         <module>java-11-string</module>
         <module>java-12-math</module>
+        <module>java-13-examples</module>
     </modules>
 
     <properties>
